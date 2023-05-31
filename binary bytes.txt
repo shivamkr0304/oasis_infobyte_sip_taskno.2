@@ -1,0 +1,14 @@
+prettier extension
+tabnine      "
+
+Semantic tags:
+<header></header>
+<main></main>
+<footer></footer>
+
+<style>
+
+table,th,td{
+border="1px"
+}
+</style>
